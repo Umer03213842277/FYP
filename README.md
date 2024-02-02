@@ -1,5 +1,5 @@
 # FYP
-## VedioBased Summary Generator 
+## Query Based Video Summarization
 
 ### Run the notebook cell by cell from installing transformers to the area before 'Code For UI'.
 
